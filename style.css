@@ -1,0 +1,40 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+h1{
+    text-align: center;
+    font: normal 17pt Arial;
+    margin: 40px auto;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 0, 0.267);
+    margin: 0px 5px;
+    margin-top: 15px;
+    font: bolder 13pt Arial;
+}
+
+footer {
+    text-align: center;
+    font: normal 13pt Arial;
+    margin-top: 50px;
+}
+
+#res{ 
+    font: normal 18pt Arial;
+    margin-top: 20px;
+}
+
+p{ 
+    text-align: center;
+    font: normal 15pt Arial;
+}
